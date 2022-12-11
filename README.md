@@ -46,6 +46,8 @@ A curated list of useful resources for Filecoin
 - [FEVM Hardhat Kit](https://github.com/filecoin-project/FEVM-Hardhat-Kit) - A starter hardhat project for developing, deploying, and testing Solidity actors on the FEVM
 
 ### Videos
+- [Filecoin Foundation YouTube channel](https://www.youtube.com/@filecoinfoundation) - Talks from Filecoin conferences/events
+- [Filecoin Project YouTube channel](https://www.youtube.com/@filecoinfoundation) - Talks/recordings from the Filecoin ecosystem
 - [How Filecoin Actors Work](https://www.youtube.com/watch?v=9JbwbTPonv0) - Deep dive into the actors by [zenground0](https://github.com/ZenGround0)
 
 ### Miscellaneous
