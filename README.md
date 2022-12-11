@@ -46,7 +46,7 @@ A curated list of useful resources for Filecoin
 - [FEVM Hardhat Kit](https://github.com/filecoin-project/FEVM-Hardhat-Kit) - A starter hardhat project for developing, deploying, and testing Solidity actors on the FEVM
 
 ### Videos
-- [How Filecoin Actors Work](https://www.youtube.com/watch?v=9JbwbTPonv0) - Deep dive into the actors by @zenground0
+- [How Filecoin Actors Work](https://www.youtube.com/watch?v=9JbwbTPonv0) - Deep dive into the actors by [zenground0](https://github.com/ZenGround0)
 
 ### Miscellaneous
 - [Launchpad Curriculum](https://curriculum.pl-launchpad.io/) - PL Launchpoad bootcamp resources
