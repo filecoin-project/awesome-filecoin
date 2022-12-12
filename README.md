@@ -10,6 +10,7 @@ A curated list of useful resources for Filecoin
 - [Tools](#tools)
 - [Filecoin explorers](#filecoin-explorers)
 - [Wallets](#wallets)
+- [Filecoin Virtual Machine](#filecoin-virtual-machine)
 - [Resources](#resources)
   * [Examples](#examples)
   * [Videos](#videos)
@@ -32,7 +33,6 @@ A curated list of useful resources for Filecoin
 ## Official libraries and tools
 - [Filecoin status](https://status.filecoin.io/) - Filecoin (mainnet, calibnet, butterfly-snapnet) status page
 - [built-in actors](https://github.com/filecoin-project/builtin-actors) - On-chain built-in actors code
-- [ref-fvm](https://github.com/filecoin-project/ref-fvm) - Reference Filecoin VM implementation
 
 ## Tools
 - [FilSnap](https://github.com/ChainSafe/filsnap) - MetaMask snap for interacting with Filecoin dapps
@@ -43,6 +43,10 @@ A curated list of useful resources for Filecoin
 
 ## Wallets
 - [GLIF Wallet](https://wallet.glif.io/)
+
+## Filecoin Virtual Machine
+- [ref-fvm](https://github.com/filecoin-project/ref-fvm) - Reference Filecoin VM implementation
+- [fvm-rs-sdk](https://github.com/polyphene/fvm-rs-sdk) - FVM Rust SDK for building actors
 
 ## Resources
 
