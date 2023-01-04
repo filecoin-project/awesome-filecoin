@@ -41,7 +41,7 @@ A curated list of useful resources for Filecoin
 - [Filfox](https://filfox.info/)
 - [Filscan](https://filscan.io/)
 - [Filexplore](https://explorer.filmine.io/)
-- [Glif Explorer)(https://explorer.glif.io/)
+- [Glif Explorer](https://explorer.glif.io/)
 
 ## Wallets
 - [GLIF Wallet](https://wallet.glif.io/)
