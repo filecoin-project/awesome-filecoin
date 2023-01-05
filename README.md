@@ -36,6 +36,7 @@ A curated list of useful resources for Filecoin
 
 ## Tools
 - [FilSnap](https://github.com/ChainSafe/filsnap) - MetaMask snap for interacting with Filecoin dapps
+- [Lily](https://github.com/filecoin-project/lily/) - A wrapped Lotus node designed specifically for indexing the Filecoin blockchain.
 
 ## Filecoin explorers
 - [Filfox](https://filfox.info/)
