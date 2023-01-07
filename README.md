@@ -45,6 +45,7 @@ A curated list of useful resources for Filecoin
 - [Glif Explorer](https://explorer.glif.io/)
 
 ## Wallets
+- [Brave Wallet](https://brave.com/wallet/)
 - [GLIF Wallet](https://wallet.glif.io/)
 
 ## Filecoin Virtual Machine
