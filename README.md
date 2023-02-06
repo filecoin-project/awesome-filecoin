@@ -26,7 +26,7 @@ A curated list of useful resources for Filecoin
 - [Filecoin intro](https://docs.filecoin.io/intro/intro-to-filecoin/what-is-filecoin/) - Official Filecoin intro
 - [Networks](https://docs.filecoin.io/networks/overview/) - Available Filecoin networks
 - [Lotus website](https://lotus.filecoin.io/) - Lotus node website, tutorials, knowledge base
-- [Network Upgrades](https://github.com/filecoin-project/tpm/tree/master/Network%20Upgrades) - Network upgrades (FIPs included, bugfixes, improvements)
+- [Network Upgrades](https://github.com/filecoin-project/core-devs/tree/master/Network%20Upgrades) - Network upgrades (FIPs included, bugfixes, improvements)
 
 ### 🌐 Nodes
 - [🌲Forest](https://github.com/ChainSafe/forest) - Implementation of the Filecoin protocol, written in Rust
