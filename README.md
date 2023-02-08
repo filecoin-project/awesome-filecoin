@@ -31,7 +31,7 @@ A curated list of useful resources for Filecoin
 ### 🌐 Nodes
 - [🌲Forest](https://github.com/ChainSafe/forest) - Implementation of the Filecoin protocol, written in Rust
 - [🪷 Lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
-- [Venus](https://github.com/filecoin-project/venus) - Implementation of the Filecoin protocol, written in Go
+- [🪐 Venus](https://github.com/filecoin-project/venus) - Implementation of the Filecoin protocol, written in Go
 
 ### 🧰 Libraries and Tools
 - [Filecoin status](https://status.filecoin.io/) - Filecoin (mainnet, calibnet, butterfly-snapnet) status page
@@ -77,6 +77,7 @@ A curated list of useful resources for Filecoin
 - [ref-fvm](https://github.com/filecoin-project/ref-fvm) - Reference Filecoin VM implementation
 - [fvm-rs-sdk](https://github.com/polyphene/fvm-rs-sdk) - FVM Rust SDK for building actors
 - [FVM AssemblyScript SDK](https://github.com/Zondax/fvm-as-sdk)
+- [FVM Go SDK](https://github.com/ipfs-force-community/go-fvm-sdk)
 - [Filecoin.sol](https://docs.zondax.ch/fevm/filecoin-solidity/) - Solidity library for FEVM development to call methods on system/built-in actors on Filecoin.
 - [Starboard](https://fvm.starboard.ventures/contracts) - contract explorer
 - [FEVM Foundry kit](https://github.com/xBalbinus/fevm-foundry-kit) Deploy FEVM actors using Foundry framework. Works with Filecoin.sol
