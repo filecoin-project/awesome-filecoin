@@ -89,5 +89,6 @@ A curated list of useful resources for Filecoin
 - [FVM Conceptual Overview](https://hackernoon.com/the-filecoin-virtual-machine-everything-you-need-to-know)
 - [FVM resources list from Protocol Labs](https://www.notion.so/Filecoin-Virtual-Machine-FVM-Developer-Resources-94cabfd650184f4b9664bd4974e4d329)
 - [EVM to FVM Address Management (F4 Addressing)](https://drive.google.com/file/d/17ngqxflu9B-gBqVl--5KqVhXsTLhkWtJ/view)
+- [FEVM Technical Overview presentation](https://www.youtube.com/watch?v=ybR9sYlKkOs)
 
 
