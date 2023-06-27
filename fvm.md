@@ -1,4 +1,4 @@
-<img src="https://bafybeiesyiylnbxe5lrim35mwcwckoipn6eg32kpn6nibfdgb4vkmvzsta.ipfs.w3s.link/FVM%20logo.png" width="400" >
+<img src="https://bafybeiesyiylnbxe5lrim35mwcwckoipn6eg32kpn6nibfdgb4vkmvzsta.ipfs.w3s.link/FVM%20logo.png" width="500" >
 
 Hi there builders! Not sure where to begin? Too many docs to navigate? 
 
@@ -49,7 +49,7 @@ Hi there builders! Not sure where to begin? Too many docs to navigate?
 Filecoin? FVM? IPFS? What should I use to store data for my projects.? 
 
 We got you. Follow the decision-making guide below, to see which resource is recommended for your use case: 
-<img width="1296" alt="7" src="https://github.com/filecoin-project/community/assets/113331491/61f74083-396a-447c-977c-266b2da110d4">
+<img width="800" alt="7" src="https://github.com/filecoin-project/community/assets/113331491/61f74083-396a-447c-977c-266b2da110d4">
 
 **Recommended resources from the guide above**
 
