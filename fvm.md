@@ -1,18 +1,20 @@
-<img src="https://bafybeiesyiylnbxe5lrim35mwcwckoipn6eg32kpn6nibfdgb4vkmvzsta.ipfs.w3s.link/FVM%20logo.png" style="zoom:33%;" >
+<img src="https://bafybeiesyiylnbxe5lrim35mwcwckoipn6eg32kpn6nibfdgb4vkmvzsta.ipfs.w3s.link/FVM%20logo.png" width="400" >
 
 Hi there builders! Not sure where to begin? Too many docs to navigate? 
 
 **Here’s a cheat sheet to get you from zero to hero**. This cheat sheet provides a guide to the following, in order:
 
 💡 Filecoin & FVM concepts
+
 📍 Navigate what you need to use for your hackathon project
+
 🚀 Resources to get you building
 
 ## Filecoin Virtual Machine
 - [Filecoin 101](https://docs.filecoin.io/about/basics/introduction/) - you know nothing BUT that's okay, this will help!
 - [The EVM-compatible FVM](https://docs.filecoin.io/smart-contracts/fundamentals/filecoin-evm-runtime/) - welcome EVM hacker, here's what allows you to build on Filecoin.
 
-#### FVM Developer Basics
+### FVM Developer Basics
 
 - [FVM Docs](https://docs.filecoin.io/smart-contracts/fundamentals/the-filecoin-virtual-machine/): Quickstarts & concepts.
 - [EVM vs EVM-compatible FVM (FEVM)](https://docs.filecoin.io/smart-contracts/filecoin-evm-runtime/differences-with-ethereum/): Differences to note.
@@ -23,45 +25,45 @@ Hi there builders! Not sure where to begin? Too many docs to navigate?
   - To learn how to use Filecoin.sol check out the FEVM Hardhat Starter Kit's Filecoin API contract examples [here](https://github.com/filecoin-project/fevm-hardhat-kit/blob/main/contracts/filecoin-api-examples/FilecoinMarketConsumer.sol). 
   - If you’re curious about the methods of built-in actors and what they can do, you can see [here](https://docs.filecoin.io/reference/json-rpc/introduction/).
 
-####  FVM Project Ideas & Blueprints
+###  FVM Project Ideas & Blueprints
 
 - [Data + FVM](https://pl-strflt.notion.site/Data-FVM-234b7f4c17624cd8b972f92806732ca9?pvs=4) See how we are thinking about new concepts on Programmable Storage Markets, including dataDAOs and decentralized data aggregators
 - [Request for Startups](https://rfs.fvm.dev/) L2 solution ideas built on top of FVM & FVM tooling ideas. These are some ideas that Filecoin finds valuable to the ecosystem, but is not a finite list.
 
-#### FVM starter kits
+### FVM starter kits
 
 - [FEVM Hardhat Kit](https://github.com/filecoin-project/FEVM-Hardhat-Kit) - A starter hardhat project for developing, deploying, and testing Solidity actors on the FEVM.
 - [FEVM Foundry Kit](https://github.com/filecoin-project/fevm-foundry-kit) - A starter foundry project for developing, deploying, and testing Solidity smart contracts on the FEVM.
 - [FVM Deal Making starter kit](https://github.com/filecoin-project/fvm-starter-kit-deal-making) - use the client contract here to make a deal proposal directly with the Storage Provider for data >4GB.
 - [DataDao starter kit](https://github.com/filecoin-project/fevm-data-dao-kit) - quickly spin up a DataDAO using client contract & OpenZepplin's  Dao contracts.
 
-#### How-to
+### How-to
 
 - [Transfer FIL between different address types](https://docs.filecoin.io/basics/assets/transfer-fil/) - learn how to send FIL to ETH compatible address.
 - [Convert different Filecoin addresses](https://github.com/filecoin-project/community/discussions/650) - how to convert from f410 to 0x, or ID address to 0x.
 - [Send FIL to my Filecoin ID address using MetaMask](https://github.com/filecoin-project/community/discussions/649)
 - [Verify your smart contracts](https://docs.filecoin.io/smart-contracts/developing-contracts/verify-contracts/)
 
-#### Navigate to what you need
+### Navigate to what you need
 
 Filecoin? FVM? IPFS? What should I use to store data for my projects.? 
 
 We got you. Follow the decision-making guide below, to see which resource is recommended for your use case: 
 <img width="1296" alt="7" src="https://github.com/filecoin-project/community/assets/113331491/61f74083-396a-447c-977c-266b2da110d4">
 
-**Recommended resources from guide above**
+**Recommended resources from the guide above**
 
-1. **Deal aggregation:** this allows you to store smaller pieces of data (<4GB) to Filecoin that aggregators can pick up and form a larger deal (data sizes <4GB are too small for Storage Providers to pick up directly and you might not get your deal made)
+1. **Deal aggregation:** This allows you to store smaller pieces of data (<4GB) to Filecoin that aggregators can pick up and form a larger deal (data sizes <4GB are too small for Storage Providers to pick up directly and you might not get your deal made)
    - with Filecoin Data Tools (FDT), use this [daemon contract](https://github.com/hammertoe/fdt-deal-monitor/blob/main/fdt-deal-monitor-ethers.js) to trigger a deal aggregation workflow with [Filecoin Data Tools' Edge-UR tool](https://github.com/application-research/edge-ur/blob/car-gen/docs/aggregation.md). 
    - with [Lighthouse.storage](https://www.lighthouse.storage/documentation) 
-2. **[Deal Making Starter Kit](https://github.com/filecoin-project/fvm-starter-kit-deal-making) (Direct deal making with Storage Providers with):** use the Client Contract here to make a deal proposal, directly with the Storage Provider, for data >4GB.
+2. **[Deal Making Starter Kit](https://github.com/filecoin-project/fvm-starter-kit-deal-making) (Direct deal making with Storage Providers with):** Use the Client Contract here to make a deal proposal, directly with the Storage Provider, for data >4GB.
 3. **[HackFS 2023 FVM Starter Ideas](https://ecosystem-wg.notion.site/7d70e8503de64050b765b1fde8dca4d8?v=ad0e8b62ef51486598750abd1195a49b)**: detailed description for solutions and tools to build with and/or to support programmatic storage.
 4. **[DataDAO Starter Kit](https://github.com/filecoin-project/fevm-data-dao-kit):** uses Client Contract for storage and Open Zepplin's Governor contract to quickly spin up a dataDAO. Keep building from there!
 5. **[Storage Onramps](https://docs.filecoin.io/basics/how-storage-works/storage-onramps/):** easy API integration for non-programmatic storage in your dApp.
 
-#### More FVM-compatible tools
+### More FVM-compatible tools
 
-- **Blockchain explorer support FVM**
+- **Blockchain Explorer support FVM**
   
   Check smart contracts, invocation txs & logs, and verify contracts, etc.
   
