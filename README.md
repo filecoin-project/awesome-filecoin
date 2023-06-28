@@ -56,17 +56,17 @@ A curated list of useful resources for Filecoin
 
 ## FVM(Filecoin Virtual Machine)
 
-📢 **[FVM cheatsheet](./fvm.md)** - everything you need to know about FVM.
+📢 **[FVM cheatsheet](./fvm.md)** - for builders/devs to get started building on FVM.
 
 ### 📄 Introduction
 
-- [FVM Docs](https://docs.filecoin.io/fvm) - where to get start learning about FVM.
-- [What is FEVM](https://docs.filecoin.io/smart-contracts/fundamentals/filecoin-evm-runtime/) - welcome EVM hacker, here's what allows you to build on Filecoin.
+- [FVM Docs](https://docs.filecoin.io/fvm)
+- [What is FEVM](https://docs.filecoin.io/smart-contracts/fundamentals/filecoin-evm-runtime/) - Ethereum-compatible FVM.
 - [Quickstart with Remix](https://docs.filecoin.io/developers/smart-contracts/quickstart/) - Tutorial on deploying your first FEVM actor.
 
 ### 🏫 FVM starter kits
 
-- [FEVM Hardhat Kit](https://github.com/filecoin-project/FEVM-Hardhat-Kit) - A starter hardhat project for developing, deploying, and testing Solidity actors on the FEVM.
+- [FEVM Hardhat Kit](https://github.com/filecoin-project/FEVM-Hardhat-Kit) - A starter hardhat project for developing, deploying, and testing Solidity smart contracts on the FEVM.
 - [FEVM Foundry Kit](https://github.com/filecoin-project/fevm-foundry-kit) - A starter foundry project for developing, deploying, and testing Solidity smart contracts on the FEVM.
 - [FVM Deal Making starter kit](https://github.com/filecoin-project/fvm-starter-kit-deal-making) - use the client contract here to make a deal proposal directly with the Storage Provider for data >4GB.
 - [DataDao starter kit](https://github.com/filecoin-project/fevm-data-dao-kit) - quickly spin up a DataDAO using client contract & OpenZepplin's  Dao contracts.
