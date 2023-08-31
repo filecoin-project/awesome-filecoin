@@ -54,7 +54,7 @@ We got you. Follow the decision-making guide below, to see which resource is rec
     - [upload](https://docs.lighthouse.storage/lighthouse-1/lighthouse-sdk/functions/upload)
     - [access control](https://docs.lighthouse.storage/lighthouse-1/lighthouse-sdk/functions/upload-encrypted)
     - [replication/renewal/repair of storage deals (RaaS)](https://docs.lighthouse.storage/lighthouse-1/filecoin-virtual-machine/fvm-contract-overview)
-2. **[Direct dealmaking starter kit](https://github.com/filecoin-project/fvm-starter-kit-deal-making) (Direct deal making with Storage Providers with):** Use the Client Contract here to make a deal proposal, directly with the Storage Provider
+2. **[Direct dealmaking starter kit](https://github.com/filecoin-project/fvm-starter-kit-deal-making) (Direct deal making with Storage Providers with):** Use the Client Contract here to make a deal proposal, directly with the Storage Provider (SPs are actively picking up deals on calibration testnet but on mainnet, various factors affect their decision to pick up a deal including type of data, data size, SP's data capabilities)
 3. **[RaaS starter kit](https://github.com/filecoin-project/raas-starter-kit)**
 4. **[Storage Onramps](https://docs.filecoin.io/basics/how-storage-works/storage-onramps/):** easy API integration for non-programmatic storage in your dApp.
 5. **[DataDAO Starter Kit](https://github.com/filecoin-project/fevm-data-dao-kit):** uses Client Contract for storage and Open Zepplin's Governor contract to quickly spin up a dataDAO. Keep building from there!
@@ -70,7 +70,8 @@ We got you. Follow the decision-making guide below, to see which resource is rec
   - [Client contract Boost logs dashboard](https://github.com/filecoin-project/community/discussions/659) (for calibration testnet only) guide on how to view submitted deal proposals through [client contract](https://docs.filecoin.io/smart-contracts/developing-contracts/client-contract-tutorial/)
   - [Storage provider reputation database](https://www.notion.so/ecosystem-wg/SP-Reputation-WG-3825b9a7f30a47fab35dab421bbd844b?pvs=4) (for mainnet SPs only) piloting a SP reputation dataDAO to pick the most suitable SP for your deal proposal
 
-- **Calibration testnet**
+- **[Calibration testnet](https://faucet.calibration.fildev.network/)** the one and only testnet to build with during hackathons!
+  - [Testnet docs](https://docs.filecoin.io/networks/calibration/details/) (no, you don't need [datacap](https://docs.filecoin.io/basics/how-storage-works/filecoin-plus/) during hackathons as SPs are ready to pick up deals without it. On mainnet, it significantly increases the likelihood of your deal getting picked up if you have datacap)
   - [Distributed Storage Solutions (DSS)](https://github.com/Distributed-Storage-Solutions/DSS_Calibration_Net_Miner) storage provider on testnet actively picking up deals. Miner ID: t033435
   - [Piknik](https://www.piknik.com/) storage provider on testnet actively picking up deals. Has Boost logs to view client contract emitted deal proposals (guide [here](https://github.com/filecoin-project/community/discussions/659)). Miner ID: t017840
 
