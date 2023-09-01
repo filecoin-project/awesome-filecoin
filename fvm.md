@@ -177,10 +177,6 @@ https://docs.filecoin.io/developers/smart-contracts/concepts/accounts-and-assets
 - 3 - BLS Public Key Address
 - 4 - F4 translated address from foreign runtime to Filecoin
 
-**I am still trying to understand the built-in actors.**
-
-[here! 
-](https://docs.filecoin.io/developers/smart-contracts/concepts/actors-and-contracts/)
 **Where can I see other projects built on FEVM?**
 
 - [Filecoin Ecosystem Dashboard (with FVM filter)](https://ecosystem.filecoin.io/?filters=enabled&tags=FVM) - these showcase our early builders and is still being updated through next week
