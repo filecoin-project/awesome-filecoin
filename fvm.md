@@ -91,7 +91,7 @@ We got you. Follow the decision-making guide below, to see which resource is rec
 - **Decentralized compute**
   
   - [Lilypad (Bacalhau)](https://github.com/bacalhau-project/lilypad) distributed compute network which leverages Bacalhau & FVM
-  - [Shale Protocol](https://docs.shaleprotocol.com/) Shale-Serve API is a production-ready inference API for open-source LLMs (large language models). It currently supports [Vicuna-13b](https://lmsys.org/blog/2023-03-30-vicuna/). It can be used as a drop-in replacement for the OpenAI API (specifically GPT3.5-turbo) in any language, including Python, cURL, and HTTP requests.
+  - [Shale Protocol](https://docs.shaleprotocol.com/) Shale-Serve API is a production-ready inference API for open-source LLMs (large language models). It currently supports Llama 2 13B by default. It can be used as a drop-in replacement for the OpenAI API (specifically GPT3.5-turbo) in any language, including Python, cURL, and HTTP requests.
   
 - **Access control**
 
