@@ -6,6 +6,7 @@ A curated list of useful resources for Filecoin
 - [Documentation](#-documentation)
 - [Nodes](#-nodes)
 - [Libraries and tools](#-libraries-and-tools)
+- [Economic analysis tools](#-economic-analysis-tools)
 - [Filecoin explorers](#-filecoin-explorers)
 - [Apps](#-apps)
 - [Wallets](#-wallets)
@@ -42,6 +43,13 @@ A curated list of useful resources for Filecoin
 - [FilSnap](https://github.com/ChainSafe/filsnap) - MetaMask snap for interacting with Filecoin dapps
 - [Lily](https://github.com/filecoin-project/lily/) - A wrapped Lotus node designed specifically for indexing the Filecoin blockchain.
 - [Lotus Docker images](https://github.com/glifio/filecoin-docker)
+
+### 📊 Economic Analysis Tools
+- [Filecoin Supply Explorer](https://cryptoeconlab.com/tools/filecoin-supply-explorer) - Interactive explorer for Filecoin token supply dynamics, minting curves, vesting, and circulating supply
+- [Storage Provider Cost Explorer](https://cryptoeconlab.com/tools/sp-cost-explorer) - Analyze storage provider economics including costs, rewards, and ROI projections
+- [FIP-100 Simulator](https://cryptoeconlab.com/tools/fip100-simulator) - Simulate the impact of FIP-100 on Filecoin block rewards and minting rates
+- [AutoCap](https://cryptoeconlab.com/tools/autocap) - DataCap allocation analysis and optimization tool
+- [EconoLens](https://cryptoeconlab.com/econolens) - AI-powered conversational Filecoin economic analysis with interactive charts
 
 ### 🧭 Filecoin explorers
 - [Filfox](https://filfox.info/)
